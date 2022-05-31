@@ -6,6 +6,9 @@
 /.pnp
 .pnp.js
 
+/yolo-flask-deploy/assets
+/yolo-flask-deploy/variables
+
 # testing
 /coverage
 
