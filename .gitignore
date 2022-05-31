@@ -6,8 +6,8 @@
 /.pnp
 .pnp.js
 
-/yolo-flask-deploy/assets
-/yolo-flask-deploy/variables
+/yolo-flask-deploy/api/assets
+/yolo-flask-deploy/api/variables
 
 # testing
 /coverage
