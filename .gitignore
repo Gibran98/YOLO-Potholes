@@ -8,6 +8,7 @@
 
 /yolo-flask-deploy/api/assets
 /yolo-flask-deploy/api/variables
+/yolo-flask-deploy/api/saved_model.pb
 
 # testing
 /coverage
