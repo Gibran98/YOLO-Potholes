@@ -41,8 +41,9 @@ Para correr la aplicación se deben seguir los siguientes pasos:
 2. Entrar a la carpeta de `yolo-flask-deploy`
 3. Instalar las dependencias del frontend `npm i` (se necesita tener [Node.js](https://nodejs.org/en/) instalado)
 4. Instalar las dependencias del backend `pip install -r requirements.txt` (el archivo se proporciona en este repo)
-5. Correr el servidor de Flask `npm run start-api`
-6. Correr la aplicación de React `npm start`
+5. Incluir los folders de `assets` y `variables`, así como el archivo del modelo guardado `saved_model.pb` dentro de la carpeta de `api` (estos 3 se generan al terminar de entrenar el modelo)
+6. Correr el servidor de Flask `npm run start-api`
+7. Correr la aplicación de React `npm start`
 
 ## Dependencias
 Se necesitan ciertas dependencias instaladas para correr el modelo y la aplicación web.
