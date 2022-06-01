@@ -7,6 +7,7 @@ Para entrenar el modelo de YOLO se utilizó un dataset modificado del que fue cr
 * Un total de 1,983 imágenes con distribución 79:21 para train-test
 * La parte para train tiene las imágenes aumentadas
 * Archivos de anotaciones listos para YOLO darknet
+
 En nuestro caso, hicimos una distribución de 80:15:05 para train-val-test.
 
 Se puede encontrar en esta [liga](https://www.kaggle.com/datasets/anugrahakbar/potholes-detection-for-yolov4).
